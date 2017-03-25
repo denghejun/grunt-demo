@@ -1,0 +1,21 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "this is a grunt demo.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "leo",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib": "^0.11.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-contrib-qunit": "^1.3.0",
+    "grunt-contrib-uglify": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
